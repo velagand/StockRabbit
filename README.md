@@ -33,11 +33,3 @@ CSS: Materialize, Bootstrap, Font Awesome
 API: Barchart, Intrinio, Quandl
 
 The web framework used for StockRabbit is Flask, along with Google App Engine to handle data storage and file serving, and various javascript libraries, HTML, and CSS for the frontend. 
-
-## Challenges I ran into
-
-## Accomplishments that I am proud of
-
-## What I learned
-
-## What's next?
