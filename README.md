@@ -2,7 +2,7 @@
 Analyze past company events to understand the future
 
 <div style="text-align: center">
-	<img src="https://media.giphy.com/media/26gR0Tr3sGn8COFMI/giphy.gif">
+	<img src="https://media.giphy.com/media/26gR0Tr3sGn8COFMI/giphy.gif"/>
 </div>
 
 ## Current Progress
