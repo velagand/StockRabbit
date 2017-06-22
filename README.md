@@ -24,7 +24,7 @@ StockRabbit allows a user to search for a company, and view relevant news articl
 ### Tools: 
 Flask 0.12.2
 
-Google Cloud Platform (App Engine, Cloud SQL/Spanner, Logging, Monitoring)
+Google Cloud Platform (App Engine, Cloud SQL/Spanner OR BigQuery, Logging, Monitoring)
 
 JS: Amcharts, Tether, Handlebars, Chart.js, Fuse.js OR Twitter Typeahead
 
@@ -32,4 +32,4 @@ CSS: Materialize, Bootstrap, Font Awesome
 
 API: Barchart, Intrinio, Quandl
 
-The web framework used for StockRabbit is Flask, along with Google App Engine to handle data storage and file serving, and various javascript libraries, HTML, and CSS for the frontend. 
+The web framework used for StockRabbit is Flask, along with Google App Engine to handle data storage, querying and static file serving, as well as various javascript libraries (listed above), HTML, and CSS for the frontend. 
