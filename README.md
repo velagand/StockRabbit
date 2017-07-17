@@ -8,10 +8,11 @@ Analyze past company events to understand the future
 ## Current Progress
 - [x] Splash Page layout
 - [ ] Splash Page Typeahead functionality
-- [ ] Choose stock/news data API/sources
-- [ ] Choose backend platform (Google Cloud?)
+- [x] Choose stock data API/source
+- [ ] Choose news data API/source
+- [x] Choose backend platform (Google Cloud)
 - [ ] Create daily scheduled API calls/data parsing/updating (cron)
-- [ ] Front-end layout/functionality (javascript, html, css)
+- [x] Front-end layout/functionality (javascript, html, css)
 - [ ] Create logic/functions for the app frontend
 
 ## Inspiration
