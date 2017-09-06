@@ -6,14 +6,14 @@ Analyze past company events to understand the future
 </p>
 
 ## Current Progress
-- [x] Splash Page layout
-- [ ] Splash Page Typeahead functionality
-- [x] Choose stock data API/source
-- [ ] Choose news data API/source
-- [x] Choose backend platform (Google Cloud)
+- [ ] Splash Page search suggestions functionality
 - [ ] Create daily scheduled API calls/data parsing/updating (cron)
+- [ ] Choose news data API/source
+- [x] Splash Page layout
+- [x] Choose stock data API/source
+- [x] Choose backend platform (Google Cloud)
 - [x] Front-end layout/functionality (javascript, html, css)
-- [ ] Create logic/functions for the app frontend
+- [x] Create logic/functions for the app frontend
 
 ## Inspiration
 Whenever attempting to analyze and gain insights from major news events that affect stock performance, it can be difficult to understand what effect that event had on a certain company. Often, websites such as Google Finance will simply provide a list of news articles for the user to filter through, but no mechanism for comprehending the effects of these events.
